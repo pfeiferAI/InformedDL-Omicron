@@ -16,12 +16,8 @@ By integrating **real-world COVID-19 data** with **epidemiological constraints**
 ##  Citations  
 If you use this repository in your work, please cite the following:  
 
-@article{Shamsara2025PINN,
-  title={An Informed Deep Learning Model of the Omicron Wave and the Impact of Vaccination},
-  author={Elham Shamsara, Florian König, Nico Pfeifer},
-  journal={Computers in Biology and Medicine},
-  year={2025}
-}
+E. Shamsara, F. König, N. Pfeifer, "An Informed Deep Learning Model of the Omicron Wave and the Impact of Vaccination". Computers in Biology and Medicine (2025)
+
 
   
 
