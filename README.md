@@ -13,7 +13,7 @@ By integrating **real-world COVID-19 data** with **epidemiological constraints**
 
 ---
 
-##  Citations  
+##  Citation  
 If you use this repository in your work, please cite the following:  
 
 E. Shamsara, F. König, N. Pfeifer, "An Informed Deep Learning Model of the Omicron Wave and the Impact of Vaccination". Computers in Biology and Medicine (2025)
