@@ -16,8 +16,14 @@ By integrating **real-world COVID-19 data** with **epidemiological constraints**
 ##  Citations  
 If you use this repository in your work, please cite the following:  
 
-  
+@article{Shamsara2025PINN,
+  title={An Informed Deep Learning Model of the Omicron Wave and the Impact of Vaccination},
+  author={Elham Shamsara, Florian König, Nico Pfeifer},
+  journal={Computers in Biology and Medicine},
+  year={2025}
+}
 
+  
 
 ---
 [1]: Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis. "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations." Journal of Computational physics 378 (2019): 686-707.
