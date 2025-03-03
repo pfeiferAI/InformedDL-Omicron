@@ -1,1 +1,1 @@
-Outputs will generate in this folder.
+Outputs will generate in this directory.
