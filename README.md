@@ -14,7 +14,6 @@ By integrating **real-world COVID-19 data** with **epidemiological constraints**
 ###  Key Contributions  
 - Developed a **DINN model with sliding-window approach** to understand the dynamic behavior of Omicron wave and **real-time estimation of epidemic parameters**.
 - Assessed the **impact of vaccination and mutations on Omicron transmission**.  
-- Applied **Granger Causality Tests** to identify **mutation-driven transmission surges**.  
 
 ---
 
